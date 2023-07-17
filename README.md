@@ -6,7 +6,7 @@
 
   Fully responsive personal portfolio website, <br />Responsive for all devices, built using HTML, CSS, and JavaScript.
 
-  <a href="https://github.io/Alokpatel88/my_Portfolio_website/"><strong>➥ Live Demo</strong></a>
+  <a href="https://github.com/dhjp123/My_portfolio_website"><strong>➥ Live Demo</strong></a>
 
 </div>
 
@@ -31,13 +31,13 @@ To run **Portfolio** locally, run this command on your git bash:
 Linux and macOS:
 
 ```bash
-sudo git clone https://github.com/Alokpatel88/my_Portfolio_website.git
+sudo git clone https:https://github.com/dhjp123/My_portfolio_website
 ```
 
 Windows:
 
 ```bash
-git clone https://github.com/Alokpatel88/my_Portfolio_website.git
+git clone https:https://github.com/dhjp123/My_portfolio_website
 ```
 
 ### Contact
