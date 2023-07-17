@@ -2,7 +2,7 @@
   
   <br />
 
-  <h2 align="center">Alok Portfolio Website</h2>
+  <h2 align="center">Dhruvjeet Portfolio Website</h2>
 
   Fully responsive personal portfolio website, <br />Responsive for all devices, built using HTML, CSS, and JavaScript.
 
@@ -44,9 +44,9 @@ git clone https://github.com/Alokpatel88/my_Portfolio_website.git
 
 contact with me you can reach me at 
 
-[LinkedIn](https://www.linkedin.com/in/alok-patel-794547220/).
 
-[Twitter](https://www.twitter.com/alokpatel88).
+
+
 
 [Instagrma](https://www.instagram.com/alokpatel88).
 
