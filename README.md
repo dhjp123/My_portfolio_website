@@ -48,8 +48,8 @@ contact with me you can reach me at
 
 
 
-[Instagrma](https://www.instagram.com/alokpatel88).
+[Instagrma](https://www.instagram.com/dhruv_jeet_ptl__907/).
 
-[LinkedIn](https://www.linkedin.com/in/alok-patel-794547220/).
+[LinkedIn](https://www.linkedin.com/in/dhruvjeet-patel-8183a3213/).
 
 
